@@ -1,0 +1,6 @@
+{
+  "name": "HirePrep AI",
+  "description": "AI-Powered Recruitment & Interview Platform for resume analysis, ATS scoring, AI mock interviews, answer evaluation, and coding assessments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
